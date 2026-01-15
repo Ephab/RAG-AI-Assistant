@@ -1,0 +1,6 @@
+pymupdf4llm
+requests
+tqdm
+chromadb
+sentence-transformers
+tiktoken
